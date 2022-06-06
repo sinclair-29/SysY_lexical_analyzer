@@ -1,0 +1,9 @@
+int a=233;
+/*qwq
+*/
+float pi = 3.1415926;
+float e = 1.0 / 2.0 * m * 2;
+float S = a + b - c;
+<= == >= = ! != && || 
+[] {} ()
+/* an example of unterminated comment
